@@ -35,3 +35,5 @@ Thumbs.db # Windows
 # Environment specific files (e.g., API keys, configuration)
 .env
 config.local.json
+
+list.txt

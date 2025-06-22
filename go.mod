@@ -1,3 +1,3 @@
-module squ1ky/expense-tracker
+module expense-tracker
 
 go 1.23.4
