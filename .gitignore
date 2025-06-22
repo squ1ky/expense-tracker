@@ -1,0 +1,37 @@
+# Binaries for programs
+*.exe
+*.dll
+*.so
+*.dylib
+*.wasm
+
+# Test binaries
+*_test
+
+# Build output directories
+/bin/
+/pkg/
+
+# Dependency directories (if not using Go modules)
+# /vendor/
+
+# Go module cache
+# If you are using Go modules, you generally do not need to ignore go.sum or go.mod,
+# as they are essential for reproducible builds.
+# However, if you have a specific reason to ignore the module cache:
+# go.mod
+# go.sum
+
+# IDE and editor specific files
+.idea/
+.vscode/
+*.swp
+*.bak
+*.log
+*.tmp
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Environment specific files (e.g., API keys, configuration)
+.env
+config.local.json
